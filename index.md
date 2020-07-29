@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Saxophone Popular Musicsheets
 
-You can use the [editor on GitHub](https://github.com/karissabugeja/karissabugeja/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+So as a saxophone player I have difficulty finding music sheets for popluar, trendy music. Therefore, I decided to do something about it and I have created this website so that other saxophone players won't have to go through the same stuggle I did.
+In this website, you can find many popluar songs which I have arranged for alto saxophone. You can also follow me on Youtube for more recent content and covers (https://www.youtube.com/channel/UCZez7LgF4CbQYJm0jl_XbSw/?disable_polymer=true).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## I Gotta Feeling by Black Eyed Peas 1st Alto Saxophone
+<img width="559" alt="saxophone music sheet for website" src="https://user-images.githubusercontent.com/42961969/88719808-264f9900-d124-11ea-93a8-4b7c8592bbd7.PNG">
+## I Gotta Feeling by Black Eyed Peas 2nd Alto Saxophone
+<img width="556" alt="Capture" src="https://user-images.githubusercontent.com/42961969/88720176-bab9fb80-d124-11ea-981b-f2ec8c01f42d.PNG">
 
-```markdown
-Syntax highlighted code block
+## More Info
+For those who want to play with the music, this is the track from YouTube: [Let's go to YouTube](https://www.youtube.com/watch?v=CwdrtwZiQ9E)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karissabugeja/karissabugeja/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**For more content follow me on [YouTube] (https://www.youtube.com/channel/UCZez7LgF4CbQYJm0jl_XbSw) or [Instagram](https://www.instagram.com/?hl=en)**
