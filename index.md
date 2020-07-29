@@ -1,3 +1,4 @@
+<div class="text-blue mb-2">
 ## Saxophone Popular Musicsheets
 
 So as a saxophone player I have difficulty finding music sheets for popluar, trendy music. Therefore, I decided to do something about it and I have created this website so that other saxophone players won't have to go through the same stuggle I did.
