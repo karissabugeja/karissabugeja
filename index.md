@@ -13,4 +13,4 @@ In this website, you can find many popluar songs which I have arranged for alto 
 ## More Info
 For those who want to play with the music, this is the track from YouTube: [Let's go to YouTube](https://www.youtube.com/watch?v=CwdrtwZiQ9E)
 
-**For more content follow me on [YouTube] (https://www.youtube.com/channel/UCZez7LgF4CbQYJm0jl_XbSw) or [Instagram](https://www.instagram.com/?hl=en)**
+**For more content follow me on [YouTube](https://www.youtube.com/channel/UCZez7LgF4CbQYJm0jl_XbSw) or [Instagram](https://www.instagram.com/?hl=en)**
